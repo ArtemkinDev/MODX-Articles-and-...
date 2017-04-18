@@ -1,2 +1,3 @@
 # MODX-Articles-and-...
 Tuts 1 - https://itchief.ru/lessons/modx-revo/116-modx-revo-%28blog%29-installation-system  
+Tuts 2 - http://modx.ws/blog/uroki-modx-revolution/ustanovka-modx-revolution.html
